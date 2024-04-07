@@ -1,0 +1,22 @@
+body{
+     background-color: blanchedalmond;
+}
+a{
+     color: brown;
+     font-size: 25px;
+     text-decoration: none;
+}
+img{
+     max-width: 90%;
+}
+table{
+     font-family: 'Courier New', Courier, monospace;
+     border-collapse: collapse;
+}
+th,td{
+     border: 1px solid blue;
+}
+ul{
+    list-style-type: square; 
+    color: brown;
+}
